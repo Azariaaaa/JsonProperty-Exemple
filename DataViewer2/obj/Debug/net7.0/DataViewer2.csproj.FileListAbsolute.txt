@@ -1,0 +1,17 @@
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\bin\Debug\net7.0\DataViewer2.exe
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\bin\Debug\net7.0\DataViewer2.deps.json
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\bin\Debug\net7.0\DataViewer2.runtimeconfig.json
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\bin\Debug\net7.0\DataViewer2.dll
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\bin\Debug\net7.0\DataViewer2.pdb
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.csproj.AssemblyReference.cache
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.AssemblyInfo.cs
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.csproj.CoreCompileInputs.cache
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.csproj.CopyComplete
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.dll
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\refint\DataViewer2.dll
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.pdb
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\DataViewer2.genruntimeconfig.cache
+C:\Users\macbe\Desktop\Cours C#\DataViewer2\DataViewer2\obj\Debug\net7.0\ref\DataViewer2.dll

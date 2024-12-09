@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "96ioO8H8qiy/tIWeOZ103nWBiLVdTvvJsSo5klatXP2+pOIzESYOaz1OQGKVZc6r5UmbzJTO4cMuPbksdEOlUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macbe\\Desktop\\Cours C#\\DataViewer2\\DataViewer2\\DataViewer2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macbe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
